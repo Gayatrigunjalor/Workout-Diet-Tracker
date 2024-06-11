@@ -33,9 +33,7 @@ function Rating( { totalStars = 7 } ){
         />
 
 <button
-          className="w-full p-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600"
-          
-        >
+className="w-full p-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600">
           Submit
         </button>
 
